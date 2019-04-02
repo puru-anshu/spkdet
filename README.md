@@ -1,2 +1,2 @@
 # spkdet
-Text Independent Speaker Detection System
+Text Independent Speaker Detection System.GMM Based
